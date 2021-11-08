@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/Veralevelda07'),
+            InlineKeyboardButton('Owner', url='https://t.me/Veralevelda07'),
             InlineKeyboardButton('Share me🤠', url='https://t.me/share/url?url=https://t.me/dhanush_media_bot')
             ],[
             InlineKeyboardButton('Main Channel', url='https://t.me/TamilMVofficials')
@@ -91,7 +91,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/Veralevelda07'),
+            InlineKeyboardButton('Owner', url='https://t.me/Veralevelda07'),
             InlineKeyboardButton('Share me🤠', url='https://t.me/share/url?url=https://t.me/dhanush_media_bot')
             ],[
             InlineKeyboardButton('Main Channel', url='https://t.me/TamilMVofficials')
