@@ -28,8 +28,7 @@ My Name is Elon Musk I'm a Auto-Filter Bot You Can't Use Me in Your Group becaus
 <b>📜 Quote</b> : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും</b>"""
     SOURCE_TXT = """<b>𝖭𝗈𝗍 𝖠𝗏𝖺𝗂𝗅𝖻𝗅𝖾 𝖭𝗈𝗐..🙁</b>
 
-𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/VERALEVELDA07"> NAVEEN </a>  """
+"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
