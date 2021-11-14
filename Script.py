@@ -10,18 +10,23 @@ My Name is Elon Musk I'm a Auto-Filter Bot You Can't Use Me in Your Group becaus
 ○ You Can Check My status  Using This Command /Stats
 ○ Notice 📙:-
 
-○Dont Spam Me...🤒</b>"""
+○Dont Spam Me...🤒
+\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/OGGY123kph">𝖲ʜɪᴠᴀ 🇮🇳/🇵🇹</a></b>"""
     ABOUT_TXT = """
-✪ 𝓜𝔂𝓷𝓪𝓶𝓮: <a href="https://t.me/Dhanush_media_Bot"> Dhanush </a>
-✪ 𝓒𝓻𝓮𝓪𝓽𝓸𝓻: <a href="https://t.me/Veralevelda07"> Naveen </a>
-✪ 𝓛𝓲𝓫𝓻𝓮𝓪𝓻𝓻𝔂: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✪ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✪ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✪ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻: 𝙷𝙴𝚁𝙾𝙺𝚄
-✪ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- 𝑷𝒍𝒆𝒂𝒔𝒆 𝒄𝒐𝒏𝒕𝒂𝒄𝒕𝒔 𝒎𝒚 𝒎𝒂𝒔𝒕𝒆𝒓 𝒇𝒊𝒓 𝒎𝒚 𝒅𝒐𝒖𝒃𝒕𝒔 𝒂𝒏𝒅 𝒄𝒐𝒎𝒑𝒍𝒂𝒏𝒕𝒆𝒔
+🙋🏻‍♂️   Hellooo    {}..🤓
+    
+<b>○ My Name</b> : Auto-Filter Bot 
+<b>○ Creator</b> : <a href="https://t.me/OGGY123kph">𝖲ʜɪᴠᴀ 🇮🇳/🇵🇹</a>
+<b>○ Credits</b> : <code>Everyone in this journey</code>
+<b>○ Language</b> : <code>Python3</code>
+<b>○ Library</b> : <code>Pyrogram asyncio 0.17.1</code>
+<b>○ Supported Site</b> : <code>Only Telegram</code>
+<b>○ Source Code</b> : 𝖭𝗈𝗍 𝖠𝗏𝖺𝗂𝗅𝖻𝗅𝖾 𝖭𝗈𝗐..🙁
+<b>○ Server</b> : <code>Heroku</code>
+<b>○ Database</b> : <code>MongoDB</code>
+<b>○ Build Status</b> : <code>V2.1 [BETA]</code>
+<b>📜 Quote</b> : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും</b>"""
+    SOURCE_TXT = """<b>𝖭𝗈𝗍 𝖠𝗏𝖺𝗂𝗅𝖻𝗅𝖾 𝖭𝗈𝗐..🙁</b>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/VERALEVELDA07"> NAVEEN </a>  """
