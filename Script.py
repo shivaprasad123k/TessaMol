@@ -1,11 +1,16 @@
 class script(object):
     START_TXT = """<b>𝖸𝗈..𝖸𝗈.. {} 🙋‍♂️,
 My Name is Elon Musk I'm a Auto-Filter Bot You Can't Use Me in Your Group because I'm a private bot....🤓
-I Only Work <a href="https://t.me/moviehubgroupp">Movie Hub</a> Group..🤓
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+\nI Only Work <a href="https://t.me/moviehubgroupp">Movie Hub</a> Group..🤓
+\n➖➖➖➖➖➖➖➖➖➖➖➖➖
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/OGGY123kph">𝖲ʜɪᴠᴀ 🇮🇳/🇵🇹</a></b>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
+    HELP_TXT = """<b>𝖧𝖾𝗒 {} 
+𝖸𝗈𝗎 𝖢𝖺𝗇'𝗍 𝖴𝗌𝖾 𝖬𝖾..𝖨𝖺𝗆 𝖯𝗋𝗂𝗏𝖾𝗍 𝖡𝗈𝗍..🤓
+\n○ Sorry bruh... I can't help You because I'm a private bot🥲
+○ You Can Check My status  Using This Command /Stats
+○ Notice 📙:-
+
+○Dont Spam Me...🤒</b>"""
     ABOUT_TXT = """
 ✪ 𝓜𝔂𝓷𝓪𝓶𝓮: <a href="https://t.me/Dhanush_media_Bot"> Dhanush </a>
 ✪ 𝓒𝓻𝓮𝓪𝓽𝓸𝓻: <a href="https://t.me/Veralevelda07"> Naveen </a>
