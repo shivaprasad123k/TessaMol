@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>𝖸𝗈..𝖸𝗈.. {} 🙋‍♂️,
-My Name is Elon Musk I'm a Auto-Filter Bot You Can't Use Me in Your Group because I'm a private bot....🤓
+My Name is Kakashi I'm a Auto-Filter Bot You Can't Use Me in Your Group because I'm a private bot....🤓
 \nI Only Work <a href="https://t.me/moviehubgroupp">Movie Hub</a> Group..🤓
 \n➖➖➖➖➖➖➖➖➖➖➖➖➖
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/OGGY123kph">𝖲ʜɪᴠᴀ 🇮🇳/🇵🇹</a></b>"""
