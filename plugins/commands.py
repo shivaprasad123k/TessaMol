@@ -37,7 +37,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('💘 𝖶𝖮𝖱𝖪𝖨𝖭𝖦 𝖦𝖱𝖮𝖴𝖯 💘', url='https://t.me/moviehubgroupp')
+            InlineKeyboardButton('💘 𝖶𝖮𝖱𝖪𝖨𝖭𝖦 𝖦𝖱𝖮𝖴𝖯 💘', url='https://t.me/searchandtakemovie')
             ],[
             InlineKeyboardButton('Help 🥺', callback_data='help'),
             InlineKeyboardButton('About 😎', callback_data='about')
