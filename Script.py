@@ -16,7 +16,7 @@ Happy to have you here🤍
 🙋🏻‍♂️   Hellooo    {}..🤓
     
 <b>○ My Name</b> : Auto-Filter Bot 
-<b>○ Creator</b> : <a href="https://t.me/Anandu2506">𝖠𝗇𝖺𝗇𝖽𝗎</a>
+<b>○ Creator</b> : <a href="https://t.me/Amrithfx">𝑨𝒎𝒓𝒊𝒕𝒉</a>
 <b>○ Credits</b> : <code>Everyone in this journey</code>
 <b>○ Language</b> : <code>Python3</code>
 <b>○ Library</b> : <code>Pyrogram asyncio 0.17.1</code>
