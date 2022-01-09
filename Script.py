@@ -1,9 +1,9 @@
 class script(object):
-    START_TXT = """<b>𝖸𝗈..𝖸𝗈.. {} 🙋‍♂️,
-My Name is Tessa I'm a Auto-Filter Bot You Can't Use Me in Your Group because I'm a private bot....🤓
-\nI Only Work <a href="https://t.me/searchandtakemovie">MOVIE COLLECTION</a> Group..🤓
-\n➖➖➖➖➖➖➖➖➖➖➖➖➖
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Anandu2506">𝖠𝗇𝖺𝗇𝖽𝗎</a></b>"""
+    START_TXT = """Hey {} 🥰
+Welcome to Mallu Filmz... 
+Happy to have you here🤍
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Amrithfx">𝑨𝒎𝒓𝒊𝒕𝒉</a></b>"""
     HELP_TXT = """<b>𝖧𝖾𝗒 {} 
 𝖸𝗈𝗎 𝖢𝖺𝗇'𝗍 𝖴𝗌𝖾 𝖬𝖾..𝖨𝖺𝗆 𝖯𝗋𝗂𝗏𝖾𝗍 𝖡𝗈𝗍..🤓
 \n○ Sorry bruh... I can't help You because I'm a private bot🥲
@@ -11,7 +11,7 @@ My Name is Tessa I'm a Auto-Filter Bot You Can't Use Me in Your Group because I'
 ○ Notice 📙:-
 
 ○Dont Spam Me...🤒
-\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Anandu2506">𝖠𝗇𝖺𝗇𝖽𝗎</a></b>"""
+\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Amrithfx">𝑨𝒎𝒓𝒊𝒕𝒉</a></b>"""
     ABOUT_TXT = """
 🙋🏻‍♂️   Hellooo    {}..🤓
     
@@ -29,7 +29,7 @@ My Name is Tessa I'm a Auto-Filter Bot You Can't Use Me in Your Group because I'
     SOURCE_TXT = """<b>𝖭𝗈𝗍 𝖠𝗏𝖺𝗂𝗅𝖻𝗅𝖾 𝖭𝗈𝗐..🙁
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Anandu2506">𝖠𝗇𝖺𝗇𝖽𝗎</a></b>"""
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Amrithfx">𝑨𝒎𝒓𝒊𝒕𝒉</a></b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
